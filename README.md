@@ -9,7 +9,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 ## Automatic deploy of HTML to GitHub Pages
 
 The site is automatically built and deployed to
-[compgeolab/compgeolab.github.io](https://github.com/compgeolab/compgeolab.github.io)
+[emgeolab/emgeolab.github.io](https://github.com/emgeolab/emgeolab.github.io)
 by the GitHub Actions service.
 Every time a commit is pushed to the *main* branch, the HTML is compiled and
 the website is updated.

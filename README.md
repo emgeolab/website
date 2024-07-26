@@ -1,4 +1,4 @@
-# Souce code for compgeolab.org
+# Souce code for emgeolab.org
 
 [![build-html](https://github.com/compgeolab/website/workflows/build-html/badge.svg?event=push)](https://github.com/compgeolab/website/actions?query=workflow%3Abuild-html)
 

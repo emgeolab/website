@@ -15,6 +15,7 @@ Every time a commit is pushed to the *main* branch, the HTML is compiled and
 the website is updated.
 See `.github/workflows/build.yml` for the configuration.
 
+
 ## License
 
 [![Creative Commons

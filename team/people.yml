@@ -9,120 +9,24 @@
 
 # List of current lab members
 current:
-  - name: Leonardo Uieda
-    role: PI / Professor
-    affiliation: Universidade de São Paulo, Brazil
+  - name: Seogi Kang
+    role: PI / Assistant Professor
+    affiliation: University of Manitoba
     pronouns: he/him
-    github: leouieda
-    email: uieda@usp.br
-    orcid: 0000-0001-6123-9515
-    google_scholar: http://scholar.google.com/citations?user=qfmPrUEAAAAJ
-    researchgate: https://www.researchgate.net/profile/Leonardo_Uieda
-    lattes: 8939551682050504
-    website: https://www.leouieda.com
+    github: sgkang
+    email: sgkang09@gmail.com
+    orcid: 0000-0002-9963-936X
+    google_scholar: https://scholar.google.com/citations?user=wFndVSMAAAAJ&hl=en
+    researchgate: https://www.researchgate.net/profile/Seogi-Kang-2
+    website: https://sgkang.github.io/
 
-  - name: India Uppal
-    role: PhD student
-    affiliation: University of Liverpool, UK
-    pronouns: she/her
-    github: indiauppal
-    email: I.Uppal@liverpool.ac.uk
-    orcid: 0000-0003-3531-2656
-    project: Improving estimates of Antarctic geothermal heat flow from magnetic data
-
-  - name: Gelson Ferreira Souza Junior
-    role: PhD student
-    affiliation: Universidade de São Paulo, Brazil
-    pronouns: he/him
-    github: Souza-junior
-    email: gelson.ferreira@iag.usp.br
-    orcid: 0000-0002-5695-4239
-    lattes: 5458580084475010
-    researchgate: https://www.researchgate.net/profile/Gelson-Souza-Junior
-    project: Micropaleomagnetism
-
-  - name: Yago Moreira Castro
-    role: MSc student
-    affiliation: Universidade de São Paulo, Brazil
-    pronouns: he/him
-    github: YagoMCastro
-    email: yagomcastro@usp.br
-    orcid: 0009-0003-3884-9675
-    lattes: 3638234138206203
-    researchgate: https://www.researchgate.net/profile/Yago-Moreira-Castro
-
-  - name: Arthur Siqueira de Macêdo
-    role: MSc student
-    affiliation: Universidade de São Paulo, Brazil
-    pronouns: he/him
-    github: arthursmacedo
-    email: arthursmacedo@usp.br
-    orcid: 0009-0006-5106-4356
-    lattes: 8208731636024394
-    researchgate: https://www.researchgate.net/profile/Arthur-Macedo-9
+  - name: YOU
+    role: PhD, MSc, or Postdoc
+    affiliation: University of Manitoba
+    github: groundwater-recharge
 
 # List of external collaborators
-collaborators:
-  - name: Santiago Soler
-    role: Postdoctoral Researcher
-    affiliation: University of British Columbia, Canada
-    pronouns: he/him
-    github: santisoler
-    orcid: 0000-0001-9202-5317
-    google_scholar: https://scholar.google.com/citations?user=7OWfWx0AAAAJ
-    researchgate: https://www.researchgate.net/profile/Santiago_Soler2
-    website: https://www.santisoler.com
-
-  - name: Vanderlei C. Oliveira Jr.
-    role: Researcher
-    affiliation: Observatório Nacional, Brazil
-    pronouns: he/him
-    github: birocoles
-    orcid: 0000-0002-6338-4086
-    lattes: 4332841435949533
-    website: https://www.pinga-lab.org
-
-  - name: Valéria C. F. Barbosa
-    role: Researcher
-    affiliation: Observatório Nacional, Brazil
-    pronouns: she/her
-    github: valcris
-    orcid: 0000-0002-9767-6044
-    lattes: 0391036221142471
-    website: https://www.pinga-lab.org
-    picture: ../images/team/valeria-barbosa.jpg
-
-  - name: Ricardo I. F. Trindade
-    role: Professor
-    affiliation: Universidade de São Paulo, Brazil
-    pronouns: he/him
-    orcid: 0000-0001-9848-9550
-    researchgate: https://www.researchgate.net/profile/Ricardo-Trindade
-    lattes: 3934334115083849
-    picture: ../images/team/ricardo-trindade.jpg
+# collaborators:
 
 # List of past lab members
-alumni:
-  - name: Santiago Soler
-    role: PhD student
-    affiliation: Universidad Nacional de San Juan, Argentina
-    pronouns: he/him
-    github: santisoler
-    orcid: 0000-0001-9202-5317
-    google_scholar: https://scholar.google.com/citations?user=7OWfWx0AAAAJ
-    researchgate: https://www.researchgate.net/profile/Santiago_Soler2
-    project:  Metodologías y herramientas computacionales para el procesamiento y modelado de datos gravimétricos
-
-  - name: Laura Nicholls
-    role: Undergraduate student
-    affiliation: University of Liverpool, UK
-    pronouns: she/her
-    github: LNich
-    project: An open-source Python implementation of the gravitational fields of ellipsoids
-
-  - name: Sarah Margrethe Askevold
-    role: Undergraduate student
-    affiliation: University of Liverpool, UK
-    pronouns: she/her
-    github: SAskevold
-    project: An open-source Python implementation of k-nearest-neighbor interpolation
+# alumni:

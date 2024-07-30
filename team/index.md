@@ -7,8 +7,8 @@ template: base.html
 
 <div class="lead">
 
-We are an international group of researchers joined by a shared passion for
-geoscience and open-source.
+We "will" be an international group of researchers joined by a shared passion for advancing electromagnetic geophysics to 
+address societal problems that we faced in the 21 century such as climate change and energy transition. 
 
 </div>
 
@@ -71,20 +71,12 @@ geoscience and open-source.
 
 ## Team members
 
-The core team working across our research themes:
-
 {{ profiles(page.people.current) }}
 
-## Collaborators
-
-Research is never done in a vacuum! We are proud to collaborate with
-world-leading researchers:
+<!-- ## Collaborators
 
 {{ profiles(page.people.collaborators) }}
 
 ## Alumni
 
-These are some of the people who passed through the lab and have since moved on
-(only those who have added themselves):
-
-{{ profiles(page.people.alumni) }}
+{{ profiles(page.people.alumni) }} -->

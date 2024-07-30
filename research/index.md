@@ -7,14 +7,12 @@ template: base.html
 
 <div class="lead">
 
-We focus our efforts on creating and applying new methods for **3D modeling and
-data processing**, mostly for gravimetry and magnetometry. Below, you'll find
-the main research themes that we pursue.
+Our lab aims to advance computational **EM (electromagnetic) geophysics in numerical simulation, inversion, and machine learning**, tailored for innovating exploration and sustainable management of natural resources such as crtitical minerals and groundwater. 
 
 </div>
 
 
-<section class="extra-space flow">
+<!-- <section class="extra-space flow">
 
 ## Magnetic microscopy
 
@@ -48,14 +46,6 @@ We are working hard on improving the way that **airborne and satellite magnetic 
 Our group is also tackling the challenging **inverse problem of producing heat flow estimates** from the magnetic data.
 
 {{ macros.figure(src="../images/antarctica-magnetic-data.jpg", alt="Map of Antarctica overlaid by red, white, and blue points representing magnetic measurements. The data coverage has a lot of gaps.", caption='The <a href="https://doi.org/10.1029/2018GL078153">ADMAP2</a> compilation of open-access airborne magnetic anomaly data for Antarctica. We are improving the compilation by adding more recent surveys and standardizing the data, as well as developing a new process for merging these data with satellite observations.') }}
-
-<div class="callout">
-
-Our work on this theme:
-
-* {{ macros.page_link("news/pgr-conference2023", page, site) }}
-
-</div>
 
 </section>
 <section class="extra-space-xl flow">
@@ -126,4 +116,4 @@ Our work on this theme:
 
 </div>
 
-</section>
+</section> -->

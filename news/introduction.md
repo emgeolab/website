@@ -1,9 +1,34 @@
 ---
-title: Introducing the Computer-Oriented Geoscience Lab
-date: 2019-08-19
+title: Introducing the Electromagnetic Geophysics Lab
+date: 2024-07-29
 ---
+In January 2025, I am starting a new position as an Assistant Professor at the [University of Manitoba](https://umanitoba.ca/), Canada.
+I am still in Stanford, California, USA, sitting in Caltrain heading to my office at Stanford University. 
+I cannot believe that I spent 6 years in here, given it was only a one-year contract when I first moved here. 
+I think that I planned about 2 years. Things are not always happening as planned, and I am such an optimist who has a tendencey to undestimate how much time that would take ...
 
-In August 2019, I started a new position as Lecturer in Geophysics at the
+Looking back, however, it was amazing 6 years for my research as well as my personal life. Expanding my research scope to groundwater problems and building connections in the groundwater community has been such a joy, and great choice for my faculty applications. Without research here in the [Environmental Geophysics Group](https://enviro.stanford.edu) led by Rosemary, I would have not been able to have an offer from the University of Manitoba. My family has grown up, my son, Daniel was born here, and he is becoming five this October!
+
+It is interesting to be in a position that I need to design my research program. This forces me to be an indepedent researcher, which is super exciting, but a bit overwhelming at the same time.
+Looking ahead, for my new position, I decided to focus my research in advancing electromagnetic (EM) geophysics for minerals and groundwater applications for the first five years. My expertise in computational side of a broad spectrum of EM geophysics, which provides a holistic view on how various EM surveys can be utilized to reveal subsurface systems. My long-term goal is to establish a world-class research program that not only advances computational EM geophysics but also integrates EM geophysical data with information from other disciplines (e.g., satellite remote sensing, geology, geochemistry, hydrology). The ultimate objective is to address societal challenges in exploring and sustainably managing natural resources.
+
+Just finished up writing a Notice of Interest for my NSERC Discovery grant focusing on critical mineral development in Canada, whic I really enjoyed. Two major research avenues that I laid out were: (a) seeing deep and covering large areas (often with challenging terrain). For the first avenue, I will focus on investigating strategies for designing effective airborne and semi-airborne EM surveys. For the second avenue, I will focus on advancing our understanding about frequency-dependent conductivity due to chargeability of rocks acting as a capacitor, which can store applied energy and slowly discharging it.
+
+Currently, I do not yet have a clear blueprint on what my research will be for groundwater applications. 
+But, there is a coversation has started on developing an approach to calibrate airboren EM systems for hydrogeologic applications. 
+So, stay tuned for this. 
+
+<!-- This website serves as a portfolio of our research and also as a guide for members and collaborators. -->
+<!-- We are strong believers that the scientific process needs to be more open, collaborative, reproducible, and inclusive.
+As such, we have high expectations not only for the results of our work, but also for how it is done.
+Our lab manual provides detailed
+information, like our code of conduct and
+what collaborators can expect from us (and what we expect from them).
+The manual is based on the excellent [Lab Carpentry](http://labcarpentry.org/)
+blueprints. -->
+
+
+<!-- In August 2019, I started a new position as Lecturer in Geophysics at the
 [University of Liverpool](https://www.liverpool.ac.uk/earth-ocean-and-ecological-sciences/).
 As part of this transition, I've had to think about my research in a broader context and
 analyse what sets it apart.
@@ -41,4 +66,4 @@ blueprints.
 
 We are eager to establish collaborations with applied scientists who have interesting
 problems that could benefit from our computational and numerical modeling skills.
-Get in touch if that sounds like you!
+Get in touch if that sounds like you! -->

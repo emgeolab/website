@@ -1,0 +1,5 @@
+"contributes": {
+    "markdown.previewStyles": [
+        "./style.css"
+    ]
+}

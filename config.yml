@@ -1,25 +1,24 @@
 site_name: "Computer-Oriented Geoscience Lab"
 site_description: "Geophysical research powered by open-source software"
-brand: "images/compgeolab-banner.svg"
+brand: "images/favicon.svg"
 favicon: "images/favicon.png"
 thumbnail: "images/thumbnail.jpg"
-url: "https://www.compgeolab.org"
-domain: compgeolab.org
-repository: compgeolab/website
+url: "https://www.emgeolab.org"
+domain: emgeolab.org
+repository: emgeolab/website
 repository_branch: main
-author: Leonardo Uieda
-mastodon: leouieda
-mastodon_server: bertha.social
-github: compgeolab
-linkedin: uieda
-researchgate: https://www.researchgate.net/lab/Computer-Oriented-Geoscience-Lab-Leonardo-Uieda
+author: Seogi Kang
+twitter: sgkang09
+github: emgeolab
+linkedin: seogi-kang
+researchgate: https://www.researchgate.net/profile/Seogi-Kang-2
 location:
-  department: Departamento de Geofísica
-  school: Instituto de Astronomia, Geofísica e Ciências Atmosféricas
-  university: Universidade de São Paulo
-  country: Brasil
+  department: Department of Earth Sciences
+  school: Clayton H. Riddell Faculty of Environment, Earth, and Resources
+  university: University of Manitoba
+  country: Canada
 language: en
-keywords: 'science, geoscience, geophysics, software, open-source'
+keywords: 'geoscience, electromagnetics, geophysics, open-science, groundwater, minerals'
 navigation:
   - name: Home
     id: index
@@ -29,8 +28,11 @@ navigation:
     id: team/index
   - name: Research
     id: research/index
-  - name: Manual
-    id: manual/index
+  # - name: Manual
+  #   id: manual/index
+  - name: Opportunities
+    id: opportunities/index
+
 ignore:
   - README.md
   - LICENSE.md

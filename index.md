@@ -1,7 +1,7 @@
 ---
 custom_page_title: Electromagnetic Geophysics Lab
 banner_image: images/banner.png
-banner_title: Innovating electromagnetic geophysics for mineral and groundwater applications
+banner_title: Advancing electromagnetic geophysics for mineral and groundwater applications
 banner_subtitle: |
   At the <strong>Electromagnetic Geophysics Lab</strong>, we advance computational electromagnetic geophysics in numerical simulation, inversion, and machine learning, tailored for mineral and groundwater problems. 
 banner_links:

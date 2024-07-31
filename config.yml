@@ -20,8 +20,8 @@ location:
 language: en
 keywords: 'geoscience, electromagnetics, geophysics, open-science, groundwater, minerals'
 navigation:
-  - name: Home
-    id: index
+  # - name: Home
+  #   id: index
   - name: News
     id: news/index
   - name: Team

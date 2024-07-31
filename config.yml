@@ -1,6 +1,6 @@
-site_name: "Computer-Oriented Geoscience Lab"
+site_name: "Electromagnetic Geophysics Lab"
 site_description: "Geophysical research powered by open-source software"
-brand: "images/favicon.svg"
+brand: "images/emgeolab-banner.svg"
 favicon: "images/favicon.png"
 thumbnail: "images/thumbnail.jpg"
 url: "https://www.emgeolab.org"

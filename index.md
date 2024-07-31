@@ -18,8 +18,6 @@ banner_links:
 template: home.html
 ---
 
-
-
 {% import "macros.html" as macros %}
 
 ## About us

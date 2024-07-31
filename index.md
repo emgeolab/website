@@ -27,5 +27,4 @@ The **EM Geophysics Lab** is a research group based at the
 
 {{ macros.figure("images/research-highlights.jpg", caption="Example research outputs. <strong>Left:</strong> targeted inversion of airborne electromagnetic data for imaging a regional confining unit. <strong>Right:</strong> three-dimensional pseudo-geologic model obtained from multiple airborne geophysical surveys including magnetics, gravity, time-domain electromagnetics, and frequency-domain electromagnetics.") }}
 
-
 [umanitoba]: https://umanitoba.ca/

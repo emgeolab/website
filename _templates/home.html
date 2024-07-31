@@ -6,7 +6,7 @@
   {{ page.body }}
   <h2>News from the lab</h2>
   <p>
-    The latest news and updates from CompGeoLab members.
+    The latest news and updates from EMGeoLab members.
   </p>
   <ul class="flow fa-ul">
     {%- for item in (site["news/index"]["siblings"]|sort(attribute="date", reverse=True)|list)[:4] %}

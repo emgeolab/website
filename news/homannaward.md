@@ -2,7 +2,6 @@
 title: Receiving the Gerald Hohmann Award at AGU Fall Meeting 2025
 date: 2026-02-04
 ---
-## Receiving the Gerald Hohmann Award at AGU Fall Meeting
 
 I am honored to have received the **Gerald Hohmann Award**, presented during the **Geomagnetism, Paleomagnetism, and Electromagnetism (GPE)** session event at the most recent **AGU Fall Meeting**.
 

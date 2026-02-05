@@ -2,6 +2,7 @@
 title: Introducing the Electromagnetic Geophysics Lab
 date: 2024-07-29
 ---
+
 In January 2025, I am starting a new position as an Assistant Professor at the [University of Manitoba](https://umanitoba.ca/), Canada.
 I am still in Stanford, California, USA, sitting in Caltrain heading to my office at Stanford University. 
 I cannot believe that I spent 6 years in here, given it was only a one-year contract when I first moved here. 

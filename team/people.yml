@@ -20,10 +20,12 @@ current:
     researchgate: https://www.researchgate.net/profile/Seogi-Kang-2
     website: https://sgkang.github.io/
 
-  - name: YOU
-    role: PhD, MSc, or Postdoc
+  - name: Jimin Hwang
+    role: PhD
     affiliation: University of Manitoba
-    github: groundwater-recharge
+    pronouns: he/him
+    email: hwangj7@myumanitoba.ca
+
 
 # List of external collaborators
 # collaborators:

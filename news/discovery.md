@@ -1,9 +1,9 @@
 ---
 title: NSERC Discovery Grant Awarded
-date: 2026-02-04
+date: 2025-04-10
 ---
 
-# 🎉 Exciting News: NSERC Discovery Grant Awarded
+## 🎉 Exciting News: NSERC Discovery Grant Awarded
 
 I’m very happy to share that I have received my **first NSERC Discovery Grant** as an Early Career Researcher.
 
@@ -11,7 +11,7 @@ This support marks an important milestone as I begin my faculty career at the **
 
 ---
 
-## 🔍 Research Overview
+### 🔍 Research Overview
 
 The funded research program, **_“Advancing electromagnetic geophysics for exploration and sustainable management of mineral resources,”_**, focuses on developing new electromagnetic (EM) geophysical approaches to better image the Earth’s subsurface.
 
@@ -26,7 +26,7 @@ This work builds on my previous research in airborne EM, induced polarization, a
 
 ---
 
-## 🇨🇦 Why This Matters
+### 🇨🇦 Why This Matters
 
 As demand for critical minerals such as nickel and copper continues to grow, Canada faces the challenge of discovering new resources while minimizing environmental impact.
 
@@ -40,7 +40,7 @@ The outcomes of this work will help strengthen Canada’s capacity in mineral ex
 
 ---
 
-## 🎓 Training and Mentorship
+### 🎓 Training and Mentorship
 
 A key component of this grant is the training of **highly qualified personnel (HQP)**. Over the next five years, this program will support graduate students and postdoctoral researchers working at the intersection of geophysics, computation, and data science.
 
@@ -48,7 +48,7 @@ I’m especially excited to build an inclusive research environment and to mento
 
 ---
 
-## 🙏 Acknowledgements
+### 🙏 Acknowledgements
 
 I’m sincerely thankful to NSERC for this support, and to my mentors, collaborators, and colleagues who have contributed to shaping this research direction.
 

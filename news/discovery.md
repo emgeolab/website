@@ -1,9 +1,59 @@
 ---
-title: Advancing electromagnetic geophysics for exploration and sustainable management of mineral resources
+title: NSERC Discovery Grant Awarded
 date: 2026-02-04
 ---
 
-I have received the Discovery grant. 
+# 🎉 Exciting News: NSERC Discovery Grant Awarded
+
+I’m very happy to share that I have received my **first NSERC Discovery Grant** as an Early Career Researcher.
+
+This support marks an important milestone as I begin my faculty career at the **University of Manitoba**, and I’m deeply grateful for the confidence NSERC has placed in my research program.
+
+---
+
+## 🔍 Research Overview
+
+The funded research program, **_“Advancing electromagnetic geophysics for exploration and sustainable management of mineral resources,”_**, focuses on developing new electromagnetic (EM) geophysical approaches to better image the Earth’s subsurface.
+
+The main goals of the program are to:
+
+- Develop **next-generation EM survey designs**, including 3D and distributed sensor systems  
+- Improve subsurface imaging by advancing our understanding of **frequency-dependent conductivity and chargeability**  
+- Create **scalable computational methods** for simulation and inversion of large EM datasets  
+- Support **sustainable and responsible mineral exploration**, particularly for critical minerals needed for the energy transition  
+
+This work builds on my previous research in airborne EM, induced polarization, and large-scale inversion, with a strong emphasis on open-source software development and open science.
+
+---
+
+## 🇨🇦 Why This Matters
+
+As demand for critical minerals such as nickel and copper continues to grow, Canada faces the challenge of discovering new resources while minimizing environmental impact.
+
+By advancing EM geophysics, this research aims to:
+
+- Improve detection and characterization of deep and complex mineral systems  
+- Reduce exploration risk and uncertainty  
+- Support data-driven, sustainable resource management  
+
+The outcomes of this work will help strengthen Canada’s capacity in mineral exploration while contributing to broader societal goals around sustainability.
+
+---
+
+## 🎓 Training and Mentorship
+
+A key component of this grant is the training of **highly qualified personnel (HQP)**. Over the next five years, this program will support graduate students and postdoctoral researchers working at the intersection of geophysics, computation, and data science.
+
+I’m especially excited to build an inclusive research environment and to mentor students as they develop skills that are valuable across academia, industry, and the public sector.
+
+---
+
+## 🙏 Acknowledgements
+
+I’m sincerely thankful to NSERC for this support, and to my mentors, collaborators, and colleagues who have contributed to shaping this research direction.
+
+I’m excited to get started and to share updates as the research progresses.
+
 
 
 <!-- This website serves as a portfolio of our research and also as a guide for members and collaborators. -->

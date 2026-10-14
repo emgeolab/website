@@ -7,7 +7,7 @@ template: base.html
 
 <div class="lead">
 
-We "will" be an international group of researchers joined by a shared passion for advancing electromagnetic geophysics to 
+We are an international group of researchers joined by a shared passion for advancing electromagnetic geophysics to 
 address societal problems that we faced in the 21 century such as climate change and energy transition. 
 
 </div>

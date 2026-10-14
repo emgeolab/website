@@ -20,14 +20,20 @@ current:
     researchgate: https://www.researchgate.net/profile/Seogi-Kang-2
     website: https://sgkang.github.io/
 
+  - name: Hyeonwoo Kang
+    role: Postdoc (Machine learning for EM processings)
+    affiliation: University of Manitoba
+    github: Kang-geophysics
+    email: Hyeonwoo.Kang@umanitoba.ca
+    
   - name: Jimin Hwang
-    role: PhD (Integration of geophysics and hydrology; starting in Summer 2026)
+    role: PhD (Integration of geophysics and hydrology)
     affiliation: University of Manitoba
     github: legogeomin
     email: hwangj7@myumanitoba.ca
 
   - name: Bardiya Sadraifar
-    role: PhD (Distributed EM for mineral exploration; starting in Fall 2026)
+    role: PhD (Distributed EM for mineral exploration)
     affiliation: University of Manitoba
     github: Bardiya-Sadraifar
     email: sadraeib@myumanitoba.ca
